@@ -12,4 +12,12 @@
 
 ---
 
-##  
+## Dev Tools
+
+### Developer tools are programs that allow a developer to create, test and debug software.They let users inspect and debug the page's HTML, CSS, and JavaScript, allow to inspect the network traffic it causes, make it possible to measure it's performance, and much more.
+
+---
+
+## Javascript
+
+### 
