@@ -20,4 +20,4 @@
 
 ## Javascript
 
-### 
+### Started off with getting familiar with declaring variables and keywords. (Let Const)
