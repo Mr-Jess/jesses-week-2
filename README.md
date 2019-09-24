@@ -8,4 +8,8 @@
 
 ## Box CSS
 
-### Using CSS was excitingrepl.it was a new experience  
+### Using CSS was exciting to add style and styling information to HTML code. repl.it was a new experience, coding inside that was very useful for practicing. Moving around the "boxes" styles them in accordance to instructions was challenging but very useful.
+
+---
+
+##  
