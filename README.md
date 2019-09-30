@@ -1,4 +1,4 @@
-# jesses-week-2
+# what I Learned in Week-2
 
 ## CSS Diner
 
